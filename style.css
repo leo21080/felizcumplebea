@@ -1,0 +1,48 @@
+* {
+    margin: 0 ;
+    padding: 0;
+}
+
+#video, video{
+ margin: 0 auto;
+ width: 75%;
+ height: 50%;
+ margin-bottom: 7%;
+
+}
+
+.cuerpo {
+    background:  #F8EFBA;
+    color: black;
+    text-align: center;
+}
+h1{
+background: #F8EFBA;
+font-family: cursive;
+font-size: 600%;
+margin-bottom: 5%;
+}
+
+#img{
+    background: rgb(91, 205, 270);
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+.cuerpo footer {
+    background: #a29bfe;
+    color:#ffffff;
+    font-family: cursive;
+    display: block; 
+}
+
+footer p {
+padding: 3%;
+font-weight: lighter;
+font-size: 300%;
+
+}
+#FC {
+    font-size: 400%;
+    padding: 5%;
+    background-color: #6F1E51;
+} 
